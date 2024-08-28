@@ -1,0 +1,3 @@
+/home/jzc/CLionProjects/zsh-os/cmake-build-debug/CMakeFiles/zsh_os.dir
+/home/jzc/CLionProjects/zsh-os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jzc/CLionProjects/zsh-os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
